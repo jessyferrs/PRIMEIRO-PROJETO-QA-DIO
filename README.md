@@ -5,7 +5,7 @@
 
 - [x] Utilização do *site* [SwagLabs](https://www.saucedemo.com/) como objeto de **teste**
 - [ ] 2 **User Stories**
-- [ ] Criação de **fluxo de trabalho**
+- [X] Criação de **fluxo de trabalho**
 - [ ] 2 **casos de teste** *step-by-step* com base na **US** escolhida
 - [ ] 2 **casos de teste** *BDD* com base na **US** escolhida
 - [ ] **Mind-map** com base na **US** escolhida
