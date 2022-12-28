@@ -1,4 +1,4 @@
-# Desafio: Projeto de Software Jira
+# Desafio: Projeto com o Software Jira
 **Bootcamp GFT Quality Assurance Para Mulheres – DIO** utilizando o software **JIRA.**
 
 ## Conteúdos:
