@@ -1,10 +1,14 @@
-# Desafio: Projeto com o Software Jira
-**Bootcamp GFT Quality Assurance Para Mulheres – DIO** utilizando o software **JIRA.**
+# Desafio: "O DIA A DIA DE UM QA: A prática de testes manuais e funcionais."
 
-## Conteúdos:
-- Utilização do _site_ [SwagLabs](https://www.saucedemo.com/) como objeto de **teste;**
-- Criação de **fluxo de trabalho;**
-- Criação de **caso de teste;**
-- Uso de _linguagem_ **Gherkin;**
-- Execução de **testes;**
-- Abertura de **BUG.**
+## Sobre o projeto:
+*Este repositório é referente ao desafio "O dia a dia de um QA: A prática de testes manuais funcionais" da plataforma de ensino DIO, ao qual foi solicitado os seguintes conteúdos:*
+
+- [x] Utilização do *site* [SwagLabs](https://www.saucedemo.com/) como objeto de **teste**
+- [ ] 2 **User Stories**
+- [ ] Criação de **fluxo de trabalho**
+- [ ] 2 **casos de teste** *step-by-step* com base na **US** escolhida
+- [ ] 2 **casos de teste** *BDD* com base na **US** escolhida
+- [ ] **Mind-map** com base na **US** escolhida
+- [ ] Uso de *linguagem* **Gherkin**
+- [ ] Execução de **testes**
+- [ ] Abertura de **BUG**
