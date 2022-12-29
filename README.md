@@ -1,4 +1,4 @@
-# Desafio: "O DIA A DIA DE UM QA: A prática de testes manuais e funcionais."
+# Desafio: "O DIA A DIA DE UM QA: A prática de testes manuais e funcionais"
 
 ## Sobre o projeto:
 *Este repositório é referente ao desafio "O dia a dia de um QA: A prática de testes manuais funcionais" da plataforma de ensino DIO, ao qual foi solicitado os seguintes conteúdos:*
