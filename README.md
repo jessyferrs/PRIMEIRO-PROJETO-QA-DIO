@@ -10,5 +10,5 @@
 - [x] 2 **casos de teste** *BDD* com base na **US** escolhida
 - [x] **Mind-map** com base na **US** escolhida
 - [x] Interface do **formulário de cadastro** da _loja virtual_
-- [x] Interface da funcionalidade de _redefinir senha_ 
+- [x] Interface da _funcionalidade_ de **redefinir senha**
 - [x] Execução de **testes**
