@@ -9,4 +9,6 @@
 - [x] 2 **casos de teste** *step-by-step* com base na **US** escolhida
 - [x] 2 **casos de teste** *BDD* com base na **US** escolhida
 - [x] **Mind-map** com base na **US** escolhida
-- [ ] Execução de **testes**
+- [x] Interface do **formulário de cadastro** da _loja virtual_
+- [x] Interface da funcionalidade de _redefinir senha_ 
+- [x] Execução de **testes**
